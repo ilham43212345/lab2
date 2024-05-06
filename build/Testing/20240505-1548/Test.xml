@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20240505-1548-Experimental"
+	Name="DESKTOP-BUV5BHI"
+	Generator="ctest-3.28.1"
+	CompilerName="C:/msys64/mingw64/bin/g++.exe"
+	CompilerVersion="13.2.0"
+	OSName="Windows"
+	Hostname="DESKTOP-BUV5BHI"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="8777"
+	TotalPhysicalMemory="7561"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2296"
+	>
+	<Testing>
+		<StartDateTime>May 05 18:49 RTZ 2 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1714924154</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 05 18:49 RTZ 2 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1714924154</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
